@@ -14,9 +14,10 @@ The main objective of this project is to understand the **core concepts of DVC**
 - Prepare a foundation for building an end-to-end ML pipeline
 
 
-## Project Structure
+<h2> Project Structure</h2>
+
+<pre>
 DVC-local_Data/
-│
 ├── data/                  # Directory containing data tracked by DVC
 ├── data.dvc               # DVC tracking file for data directory
 ├── s3/                    # Local directory used as DVC remote storage
@@ -25,7 +26,7 @@ DVC-local_Data/
 ├── README.md              # Project documentation
 ├── LICENSE                # MIT License
 └── .gitignore             # Ignored files (venv, cache, etc.)
-
+</pre>
 ## Technologies Used
 
 - Python
