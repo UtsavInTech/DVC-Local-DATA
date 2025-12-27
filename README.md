@@ -4,7 +4,6 @@ This repository demonstrates the **basic working of Data Version Control (DVC)**
 
 The main objective of this project is to understand the **core concepts of DVC**, how it integrates with Git, and how data can be versioned efficiently in an MLOps workflow.
 
----
 
 ## Project Objective
 
@@ -14,7 +13,6 @@ The main objective of this project is to understand the **core concepts of DVC**
 - Understand basic DVC commands and workflow
 - Prepare a foundation for building an end-to-end ML pipeline
 
----
 
 ## Project Structure
 DVC-local_Data/
@@ -28,8 +26,6 @@ DVC-local_Data/
 ├── LICENSE                # MIT License
 └── .gitignore             # Ignored files (venv, cache, etc.)
 
----
-
 ## Technologies Used
 
 - Python
@@ -37,8 +33,6 @@ DVC-local_Data/
 - DVC
 - Pandas
 - Local filesystem as DVC remote
-
----
 
 ##  DVC Workflow Used in This Project
 
